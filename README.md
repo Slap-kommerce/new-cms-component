@@ -8,7 +8,7 @@ The creation of a new cms component will occur in two stages:<br>
     <img src="images/component-desktop.png">
 </td></tr></table>
 
-2. Create a secondary view of the above component. The secondary view will be used by the CMS to preview live changes in the component, and the menu component containing fields from which those changes occur <br>
+2. Create a secondary view of the above component to be used by the CMS to preview live changes in the component. In addition, create a component containing the corresponding fields from which those changes occur<br>
 <table><tr><td>
     <img src="images/component-cms.png">
 </td></tr></table>
