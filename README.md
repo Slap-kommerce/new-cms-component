@@ -15,6 +15,9 @@ The creation of a new cms component will occur in two stages:<br>
 
 # Create CMS View
 
+1. go to src/pages/page-editor.tsx
+2. 
+
 
 
 ```typescript
