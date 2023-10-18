@@ -31,6 +31,7 @@ The menu component a secondary component that contains a set of fields and/or bu
     <img src="images/component-cms.png">
 </td></tr></table>
 
+As you can see in the image above, the values that are entered into the fields correspond to the values in the live-preview component. You can see a live preview of this by going to ```http://localhost:xxxx/page-editor```, where xxxx is the port number you're using. 
 
 # Create CMS Folder Structure
 1. Go to ```src/page-plugins/```
