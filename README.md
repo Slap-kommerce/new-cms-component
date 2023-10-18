@@ -4,7 +4,7 @@
 3. run ```npm start```
 
 
-# Overview of Component Build Specs
+# Overview of Job
 Every component we integrate into our (CMS) Content Management System must be able to be cusomized in realtime by our users. In order to accomplish this, each component must use three components: the default component, the live-preview component, and the menu component. 
 
 ### The Default Component
