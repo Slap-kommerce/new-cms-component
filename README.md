@@ -22,11 +22,13 @@ The menu component a secondary component that contains a set of fields and/or bu
 
 
 #### Example Component 
+This is what visitors to client pages will see
 <table><tr><td>
     <img src="images/component-desktop.png">
 </td></tr></table>
 
 #### Example Live-preview and Menu Component 
+This is what clients will see when they want to modify their pages
 <table><tr><td>
     <img src="images/component-cms.png">
 </td></tr></table>
