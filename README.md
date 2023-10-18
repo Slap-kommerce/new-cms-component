@@ -13,4 +13,7 @@ The creation of a new cms component will occur in two stages:<br>
     <img src="images/component-cms.png">
 </td></tr></table>
 
-
+```typescript
+<div style={{ width : 700}}>
+<ContainerTitled sx={{ container : { paddingLeft : 0, paddingRight : 0 }}} notitle>
+```
