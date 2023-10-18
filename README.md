@@ -12,7 +12,10 @@ The default component is what will be seen on a live website, complete with thre
 ### The Live-preview Component
 The live-preview component is the same as the default component, with two differences: 
 1. It wraps the default-component within another component that scales its width and height to fit in a preview box
-2. Its props are set first with the dummy-data, and then later can also be changed dynamically via: ```typescript React.useState()```
+2. Its props are set first with the dummy-data, and then later can also be changed dynamically via:
+```typescript
+React.useState()
+```
 
 ### The Menu Component
 
