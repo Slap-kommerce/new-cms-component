@@ -5,3 +5,10 @@ The creation of a new cms component will occur in three stages:<br>
 1. Create a regular component that is responsive to three screen resolutions: desktop, tablet, mobile. <br>
 2. Create a secondary view of the above component used by the CMS to preview live changes to the component. <br>
 3. Create a menu component containing fields that when changed, dynamically change the values. <br>
+
+
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/Slap-kommerce/new-cms-component/raw/master/src/common/images/component-desktop.png "Logo Title Text 1")
