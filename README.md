@@ -1,4 +1,4 @@
-# New CMS Component
+# CMS Component Build Specs
 
 I. The creation of a new cms component will occur in three stages:
 
