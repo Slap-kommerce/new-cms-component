@@ -1,6 +1,7 @@
 # Download and Run Project
 1. Download project and extract zip
 2. run ```npm i```
+3. run ```npm start```
 
 
 # Overview of Component Build Specs
@@ -33,9 +34,9 @@ This is what clients will see when they want to modify their pages
     <img src="images/component-cms.png">
 </td></tr></table>
 
-As you can see in the image above, the values that are entered into the fields correspond to the values in the live-preview component. You can see a live preview of this by going to ```http://localhost:xxxx/page-editor```, where xxxx is the port number you're using. 
+As you can see in the image above, the values that are entered into the fields correspond to the values in the live-preview component. After a client is happy with the changes they see on their screen, they will then hit the save button (which in the live version will save thier changes to the database), If you would like to see a live preview of this, go to ```http://localhost:xxxx/page-editor```, where xxxx is the port number you're using. 
 
-# Create CMS Folder Structure
+# Create New Folder Structure
 1. Go to ```src/page-plugins/```
 2. Create a folder, using Pascal-case, using the component name, for example NewComponentName
 3. Within the newly created folder, further create three tsx files:
