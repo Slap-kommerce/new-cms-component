@@ -11,4 +11,4 @@ The creation of a new cms component will occur in three stages:<br>
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/Slap-kommerce/new-cms-component/raw/master/src/common/images/component-desktop.png "Logo Title Text 1")
+[<img src="images/component-desktop.png">](http://example.com/)
