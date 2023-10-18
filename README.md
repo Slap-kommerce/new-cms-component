@@ -7,4 +7,6 @@ I. The creation of a new cms component will occur in three stages:
 ⋅Tablet - 640px  (width) <br>
 ⋅Mobile - 350px  (width) <br>
 
-2. A preview component, essentially the component 
+2. Create a preview component for the CMS view of the above component
+
+3.  
