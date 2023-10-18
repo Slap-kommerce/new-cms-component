@@ -6,15 +6,15 @@
 # Overview of Component Build Specs
 Every component we integrate into our (CMS) Content Management System must be able to be cusomized in realtime by our users. In order to accomplish this, each component must use three components: the default component, the live-preview component, and the menu component. 
 
-#### The Default Component
+### The Default Component
 The default component is what will be seen on a live website, complete with three screen resolutions: desktop, tablet, mobile.
 
-#### The Live-preview Component
+### The Live-preview Component
 The live-preview component is the same as the default component, with two differences: 
 1. It wraps the default-component within another component that scales its width and height to fit in a preview box
 2. Its props are set first with the dummy-data, and then later can also be changed dynamically via: ```typescript React.useState()```
 
-#### The Menu Component
+### The Menu Component
 
 1. Create a regular component that is responsive to 
 
