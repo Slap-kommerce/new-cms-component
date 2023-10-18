@@ -18,14 +18,15 @@ React.useState()
 ```
 
 ### The Menu Component
+The menu component a secondary component that contains a set of fields and/or buttons that can be used to change the props values of the live-preview component. 
 
-1. Create a regular component that is responsive to 
 
+#### Example Component 
 <table><tr><td>
     <img src="images/component-desktop.png">
 </td></tr></table>
 
-2. Create a secondary view of the above component to be used by the CMS to preview live changes in the component. In addition, create a component containing the corresponding fields from which those changes occur<br>
+#### Example Live-preview and Menu Component 
 <table><tr><td>
     <img src="images/component-cms.png">
 </td></tr></table>
