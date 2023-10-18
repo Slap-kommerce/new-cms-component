@@ -1,12 +1,7 @@
-# CMS Component Build Specs
+# Component Build Specs
 
 I. The creation of a new cms component will occur in three stages:
 
-1. Create a regular component that adheres to responsive design principles, for the following screen sizes: <br>
-⋅Desktop - 1040px (width) <br>
-⋅Tablet - 640px  (width) <br>
-⋅Mobile - 350px  (width) <br>
-
-2. Create a secondary view of the above component that will be used to preview live changes to component props in the CMS. 
-
-3. Create a menu entry component that contains the fields or buttons that when
+1. Create a regular component that is responsive to three screen resolutions: desktop, tablet, mobile.
+2. Create a secondary view of the above component used by the CMS to preview live changes to the component
+3. Create a menu component containing fields that when changed, dynamically change the values
