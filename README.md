@@ -1,3 +1,8 @@
+# Download and Run Project
+1. Download project and extract zip
+2. run ```npm i```
+
+
 # Component Build Specs
 
 The creation of a new cms component will occur in two stages:<br>
@@ -12,6 +17,9 @@ The creation of a new cms component will occur in two stages:<br>
 <table><tr><td>
     <img src="images/component-cms.png">
 </td></tr></table>
+
+
+
 
 # Create CMS View
 
