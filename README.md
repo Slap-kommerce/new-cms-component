@@ -22,9 +22,12 @@ The creation of a new cms component will occur in two stages:<br>
 
 
 # Create CMS View
-
-1. go to src/pages/page-editor.tsx
-2. 
+1. Go to ```src/page-plugins/```
+2. Create a folder, using Pascal-case, using the component name, for example NewComponentName
+3. Within the newly created folder, further create three tsx files:
+   * NewComponentName.tsx
+   * NewComponentName_Menu.tsx
+   * NewComponentName_Preview.tsx
 
 
 
