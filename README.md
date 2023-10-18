@@ -5,7 +5,7 @@
 
 
 # Job Overview
-Every component we integrate into our (CMS) Content Management System must be able to be cusomized in realtime by our users. In order to accomplish this, each component must use three components: the default component, the live-preview component, and the menu component. 
+Every component we integrate into our (CMS) Content Management System must be able to be cusomized in realtime by our users. In order to accomplish this, each component is itself comprised of three components: the default component, the live-preview component, and the menu component. 
 
 ### The Default Component
 The default component is what will be seen on a live website, complete with three screen resolutions: desktop, tablet, mobile.
