@@ -11,4 +11,4 @@ The creation of a new cms component will occur in three stages:<br>
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-[<img src="images/component-desktop.png">](http://example.com/)
+[<img style={{ border: '1px solid black'}} src="images/component-desktop.png">]
