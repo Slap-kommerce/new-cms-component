@@ -34,7 +34,7 @@ This is what clients will see when they want to modify their pages
 
 As you can see in the image above, the values that are entered into the fields correspond to the values in the live-preview component. After a client is happy with the changes they see on their screen, they will then hit the save button (which in the live version will save thier changes to the database), If you would like to see a live preview of this, go to ```http://localhost:xxxx/page-editor```, where xxxx is the port number you're using. 
 
-# Create New Folder Structure
+# Create Compatible File Structure
 The first step in creating a new component that can integrate into our CMS is setting up the folder structure.
 
 1. Go to ```src/page-plugins/```
@@ -43,6 +43,10 @@ The first step in creating a new component that can integrate into our CMS is se
    * NewComponentName.tsx
    * NewComponentName_Menu.tsx
    * NewComponentName_Preview.tsx
+  
+# Create Default Component
+# Create Preview Component
+# Create Menu Component
 
 
 
@@ -52,7 +56,3 @@ The first step in creating a new component that can integrate into our CMS is se
 
 
 
-```typescript
-<div style={{ width : 700}}>
-<ContainerTitled sx={{ container : { paddingLeft : 0, paddingRight : 0 }}} notitle>
-```
