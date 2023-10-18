@@ -7,6 +7,6 @@ I. The creation of a new cms component will occur in three stages:
 ⋅Tablet - 640px  (width) <br>
 ⋅Mobile - 350px  (width) <br>
 
-2. Create a preview component for the CMS view of the above component
+2. Create a secondary view of the above component that will be used to preview live changes to component props in the CMS. 
 
-3.  
+3. Create a menu entry component that contains the fields or buttons that when
